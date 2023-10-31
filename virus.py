@@ -1,2 +1,2 @@
 while True:
-	print("I am Virus")
+	print("I am not Virus")
